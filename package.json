@@ -1,0 +1,17 @@
+{
+    "private": false,
+    "name": "@types/passport-steam",
+    "version": "1.0",
+    "description": "  Custom Typeset for passport-steam",
+    "author": "toaaa",
+    "projects": [
+        "https://github.com/liamcurry/passport-steam"
+    ],
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*"
+    },
+    "devDependencies": {
+        "@types/passport-steam": "workspace:."
+    }
+}
